@@ -49,6 +49,8 @@ admin.py
 For HTML and CSS : the boostrap template can be retreived from here :
 https://github.com/StartBootstrap/startbootstrap-resume
 
-Modifications of the HTML and CSS were done according to my needs ( passing python values to HTML , color.....),
+Modifications of the HTML and CSS were done according to my needs ( passing python values to HTML , color.....).
+
+The website was deployed (not without pain ) for a while on a free tier platform 
 
  
